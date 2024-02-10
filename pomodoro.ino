@@ -38,7 +38,7 @@ void loop() {
 
   }
 
-  delay(1000 * 60);
+  delay(60000);
   
 }
 
